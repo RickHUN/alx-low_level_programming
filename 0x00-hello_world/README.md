@@ -1,1 +1,1 @@
-100-intel
+Writes a C program that prints exactly
