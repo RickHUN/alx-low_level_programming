@@ -1,1 +1,1 @@
-Writes a C program that prints the size of various types on the computer it is compiled and run
+Write a C program that prints exactly and that piece of art is useful" - Dora Korpar
