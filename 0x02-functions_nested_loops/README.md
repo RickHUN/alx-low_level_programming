@@ -1,1 +1,1 @@
-Writes a function that checks for lowercase character
+Writes a function that checks for alphabetic character
