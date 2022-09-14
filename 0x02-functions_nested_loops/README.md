@@ -1,1 +1,1 @@
-Writes a function that checks for alphabetic character
+Writes a function that prints the sign of a number
