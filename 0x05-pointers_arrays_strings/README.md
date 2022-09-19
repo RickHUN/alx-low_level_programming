@@ -1,1 +1,1 @@
-Writes a function that reverses a string
+Writes a function that prints every other character of a string, starting with the first character
