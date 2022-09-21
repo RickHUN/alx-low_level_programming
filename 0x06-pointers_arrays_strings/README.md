@@ -1,1 +1,1 @@
-main file
+Writes a function that concatenates two strings
