@@ -1,1 +1,1 @@
-Writes a function that concatenates two strings
+WriteS a function that concatenates two strings
